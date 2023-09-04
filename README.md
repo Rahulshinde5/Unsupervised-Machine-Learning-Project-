@@ -30,7 +30,7 @@ For the execution of this project, we utilized the following tools and libraries
 Access the [Colab notebook](Netflix_Movies_and_TV_Shows_Clustering_by_Rahul.ipynb) to view the detailed project implementation.
 
 ## Presentation
-Link to the presentation slides,[Click here](https://drive.google.com/file/d/1guIQ6xQXO-baan02J1ywL-jjTnKKDaFp/view?usp=sharing) 
+Link to the presentation slides, [Click here](https://drive.google.com/file/d/1guIQ6xQXO-baan02J1ywL-jjTnKKDaFp/view?usp=sharing) 
 
 ## Acknowledgements
 - Inspiration from similar projects and online tutorials from AlmaBetter.
